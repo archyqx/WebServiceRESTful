@@ -1,0 +1,46 @@
+<enclosure_dynamic_thermal_insulation>
+    <location>
+        <city>广州</city>
+        <longitude>东经113.33度</longitude>
+        <latitude>北纬23.17度</latitude>
+        <altitude>41米</altitude>
+    </location>
+    <data>
+        <data_element>
+            <direction>水平</direction>
+            <info name="采暖期太阳辐射强度" unit="瓦/平方米" time1="0" time2="0" time3="0" time4="0" time5="0" time6="122.8" time7="258.3" time8="405.3" time9="530.1" time10="622.8" time11="688.1" time12="639" time13="570" time14="481.7" time15="343.6" time16="165.1" time17="33.7" time18="0" time19="0" time20="0" time21="0" time22="0" time23="0" time24="0" />
+        </data_element>
+        <data_element>
+            <direction>东向</direction>
+            <info name="采暖期室外空气温度" unit="摄氏度" time1="4.0" time2="4.8" time3="5.3" time4="6.6" time5="6.8" time6="7.5" time7="7.9" time8="8.9" time9="9.2" time10="10.8" time11="10.9" time12="11.2" time13="12.4" time14="12.4" time15="12.4" time16="11.5" time17="10.8" time18="9.0" time19="8.5" time20="7.1" time21="6.5" time22="5.2" time23="4.9" time24="4.0" />
+        </data_element>
+        <data_element>
+            <direction>东向</direction>
+            <info name="采暖期太阳辐射强度" unit="瓦/平方米" time1="0" time2="0" time3="0" time4="0" time5="0" time6="135.26" time7="232.36" time8="312.52" time9="327.62" time10="290.97" time11="226" time12="216.31" time13="203.5" time14="187.03" time15="158.05" time16="84.84" time17="19.46" time18="0" time19="0" time20="0" time21="0" time22="0" time23="0" time24="0" />
+        </data_element>
+        <data_element>
+            <direction>南向</direction>
+            <info name="采暖期室外空气温度" unit="摄氏度" time1="4.0" time2="4.8" time3="5.3" time4="6.6" time5="6.8" time6="7.5" time7="7.9" time8="8.9" time9="9.2" time10="10.8" time11="10.9" time12="11.2" time13="12.4" time14="12.4" time15="12.4" time16="11.5" time17="10.8" time18="9.0" time19="8.5" time20="7.1" time21="6.5" time22="5.2" time23="4.9" time24="4.0" />
+        </data_element>
+        <data_element>
+            <direction>南向</direction>
+            <info name="采暖期太阳辐射强度" unit="瓦/平方米" time1="0" time2="0" time3="0" time4="0" time5="0" time6="53.62" time7="120.37" time8="176.72" time9="223.75" time10="263.49" time11="292.58" time12="275.26" time13="247.52" time14="212.11" time15="170.22" time16="86" time17="20.06" time18="0" time19="0" time20="0" time21="0" time22="0" time23="0" time24="0" />
+        </data_element>
+        <data_element>
+            <direction>西向</direction>
+            <info name="采暖期室外空气温度" unit="摄氏度" time1="4.0" time2="4.8" time3="5.3" time4="6.6" time5="6.8" time6="7.5" time7="7.9" time8="8.9" time9="9.2" time10="10.8" time11="10.9" time12="11.2" time13="12.4" time14="12.4" time15="12.4" time16="11.5" time17="10.8" time18="9.0" time19="8.5" time20="7.1" time21="6.5" time22="5.2" time23="4.9" time24="4.0" />
+        </data_element>
+        <data_element>
+            <direction>西向</direction>
+            <info name="采暖期太阳辐射强度" unit="瓦/平方米" time1="0" time2="0" time3="0" time4="0" time5="0" time6="58.84" time7="114.29" time8="156.09" time9="183.96" time10="206.64" time11="226" time12="300.67" time13="351.87" time14="370.22" time15="297.63" time16="158.07" time17="30.6" time18="0" time19="0" time20="0" time21="0" time22="0" time23="0" time24="0" />
+        </data_element>
+        <data_element>
+            <direction>北向</direction>
+            <info name="采暖期室外空气温度" unit="摄氏度" time1="4.4" time2="4.8" time3="5.3" time4="6.6" time5="6.8" time6="7.5" time7="7.9" time8="8.9" time9="9.2" time10="10.8" time11="10.9" time12="11.2" time13="12.4" time14="12.4" time15="12.4" time16="11.5" time17="10.8" time18="9.0" time19="8.5" time20="7.1" time21="6.5" time22="5.2" time23="4.9" time24="4.0" />
+        </data_element>
+        <data_element>
+            <direction>北向</direction>
+            <info name="采暖期太阳辐射强度" unit="瓦/平方米" time1="0" time2="0" time3="0" time4="0" time5="0" time6="29.41" time7="74.38" time8="116.63" time9="149.92" time10="169.11" time11="185.13" time12="176.68" time13="165.41" time14="139.9" time15="105.9" time16="50.47" time17="11.7" time18="0" time19="0" time20="0" time21="0" time22="0" time23="0" time24="0" />
+        </data_element>
+    </data>
+</enclosure_dynamic_thermal_insulation>

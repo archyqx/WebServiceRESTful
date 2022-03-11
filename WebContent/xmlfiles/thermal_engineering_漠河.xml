@@ -1,0 +1,37 @@
+<thermal_engineering>
+    <basic_info>
+        <city value="漠河" />
+        <province value="黑龙江" />
+        <climate_zone value="严寒" />
+    </basic_info>
+    <station>
+        <longitude value="东经122.51度" />
+        <latitude value="北纬52.97度" />
+        <altitude value="434米" />
+    </station>
+    <data>
+        <data_element xname="最冷月平均温度" unit="摄氏度" value="-10.5" />
+        <data_element name="最热月平均温度" unit="摄氏度" value="32.6" />
+        <data_element name="采暖度日数" unit="摄氏度日" value="4142" />
+        <data_element name="空调度日数" unit="摄氏度日" value="498" />
+        <data_element name="采暖室外计算温度" unit="摄氏度" value="-16.4" />
+        <data_element name="累年最低日平均温度" unit="摄氏度" value="-24.6" />
+        <data_element name="计算采暖期天数" unit="日" value="159" />
+        <data_element name="计算采暖期室外平均温度" unit="摄氏度" value="-12.5" />
+        <data_element name="计算采暖期室外平均相对湿度" unit="百分数" value="65" />
+        <data_element name="日平均温度≤ 5°C的天数" unit="日" value="145" />
+        <data_element name="日平均温度≥ 25°C的天数" unit="日" value="200" />
+        <data_element name="累年日平均温度最高日的最高温度" unit="摄氏度" value="32.5" />
+        <data_element name="自然通风设计室外平均风速" unit="m/s" value="1.7" />
+        <data_element name="自然通风设计室外平均相对湿度" unit="%" value="60" />
+        <data_element name="自然通风设计室外空气温度最低值" unit="摄氏度" value="15.3" />
+        <data_element name="自然通风设计室外平均温度" unit="摄氏度" value="24.8" />
+        <data_element name="云量" unit="成" value="3" />
+        <data_element name="日照时数" unit="小时" value="10" />
+        <data_element name="冬季日照百分率" unit="%" value="65" />
+        <data_element name="气温日较差" unit="摄氏度" value="7.5" />
+        <data_element name="气温年较差" unit="摄氏度" value="4.5" />
+        <data_element name="降水量" unit="mm" value="1002.5" />
+        <data_element name="新参数" unit="待定值" value="待定值" />
+    </data>
+</thermal_engineering>
